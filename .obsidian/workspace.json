@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/Finance/Covered Calls VS S&P.md",
+                "file": "02 - Areas/Finance/Covered Calls VS S&P.md",
                 "mode": "source",
                 "source": false
               },
@@ -72,6 +72,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a5d4ea48093bf479",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -154,31 +164,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "02 - Areas/Finance/Covered Calls VS S&P.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
-            }
-          },
-          {
-            "id": "a5d4ea48093bf479",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Covered Calls VS S&P"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,12 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8558ce65b020211",
+  "active": "cf002469f547e3f7",
   "lastOpenFiles": [
-    "04-Archive",
-    "03-Resources",
-    "02-Areas",
-    "01-Projects",
+    "04 - Archive",
+    "03 - Resources",
+    "02 - Areas",
+    "01 - Projects",
     "Welcome.md"
   ]
 }

@@ -11,10 +11,14 @@
             "id": "d8558ce65b020211",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03-Resources/Finance/Covered Calls VS S&P.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Covered Calls VS S&P"
             }
           }
         ]
@@ -178,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf002469f547e3f7",
+  "active": "d8558ce65b020211",
   "lastOpenFiles": [
     "04-Archive",
     "03-Resources",

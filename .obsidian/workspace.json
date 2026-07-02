@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "de5b0c2dbc27704b",
+        "id": "f05cb90e5238a68d",
         "type": "tabs",
         "children": [
           {
-            "id": "d8558ce65b020211",
+            "id": "71d5876b63213068",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Travel/AquaCool.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AquaCool"
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9b73300e44b5345d",
@@ -193,12 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf002469f547e3f7",
+  "active": "71d5876b63213068",
   "lastOpenFiles": [
+    "02 - Areas/Travel/AquaCool.md",
     "Templates/Default.md",
     "Templates",
     "02 - Areas/Untitled.md",
-    "02 - Areas/Travel/AquaCool.md",
     "02 - Areas/Travel/Travel.md",
     "02 - Areas/Travel/Tracking.md",
     "02 - Areas/Travel/files/Pasted image 20260607233349.png",

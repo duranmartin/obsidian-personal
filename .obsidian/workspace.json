@@ -11,14 +11,10 @@
             "id": "71d5876b63213068",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Home/Bills/Recurring Bills.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Recurring Bills"
+              "title": "New tab"
             }
           }
         ]

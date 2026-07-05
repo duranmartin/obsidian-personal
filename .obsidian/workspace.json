@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/Finance/Covered Calls VS S&P.md",
+                "file": "TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Covered Calls VS S&P"
+              "title": "Outline of TODO"
             }
           }
         ],
@@ -178,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 363.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -196,13 +196,19 @@
   "active": "71d5876b63213068",
   "lastOpenFiles": [
     "02 - Areas/Tax/2026 Tax Returns.md",
-    "02 - Areas/Tax",
-    "02 - Areas/Travel/206-06 SA.md",
+    "02 - Areas/Broogaloo/Close the company.md",
+    "TODO.md",
+    "02 - Areas/Broogaloo",
+    "02 - Areas/Home/Bills/Recurring Bills.md",
+    "Tasks.md",
     "02 - Areas/Home/Bills/AquaCool.md",
+    "02 - Areas/Finance/Covered Calls VS S&P.md",
+    "02 - Areas/Travel/206-06 SA.md",
+    "Untitled.base",
+    "02 - Areas/Tax",
     "02 - Areas/Home/Car",
     "02 - Areas/Home/Bills",
     "02 - Areas/Home",
-    "TODO.md",
     "02 - Areas/Hyperion.md",
     "02 - Areas/Hyperion",
     "Templates/Default.md",
@@ -213,10 +219,7 @@
     "02 - Areas/Travel/files/Pasted image 20260610224117.png",
     "02 - Areas/Travel/files/Pasted image 20260607224442.png",
     "02 - Areas/Travel/files",
-    "02 - Areas/Finance/Covered Calls VS S&P.md",
     "02 - Areas/Travel",
-    "04 - Archive",
-    "03 - Resources",
     "Welcome.md"
   ]
 }

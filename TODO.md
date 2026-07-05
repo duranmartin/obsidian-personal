@@ -13,7 +13,11 @@ date: 2026-07-03
 	- [ ] Duran 2025
 	- [ ] Holly 2026
 	- [ ] Holly 2025
-- [ ] 
+- [ ] Pay Bills
+	- [ ] ADNOC
+	- [ ] TAMM
+	- [ ] AquaCool
+	- [ ] 
 
 
 

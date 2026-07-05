@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Tasks"
             }
           }
         ]
@@ -80,11 +80,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -164,22 +165,33 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md",
+                "file": "Tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of Tasks"
+            }
+          },
+          {
+            "id": "61377383a53d2ce1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Tasks.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Tasks"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,15 +207,16 @@
   },
   "active": "71d5876b63213068",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Tasks.md",
+    "02 - Areas/Home/Bills/Recurring Bills.md",
+    "Templates/Default.md",
+    "02 - Areas/Travel/206-06 SA.md",
     "02 - Areas/Tax/2026 Tax Returns.md",
     "02 - Areas/Broogaloo/Close the company.md",
-    "TODO.md",
     "02 - Areas/Broogaloo",
-    "02 - Areas/Home/Bills/Recurring Bills.md",
-    "Tasks.md",
     "02 - Areas/Home/Bills/AquaCool.md",
     "02 - Areas/Finance/Covered Calls VS S&P.md",
-    "02 - Areas/Travel/206-06 SA.md",
     "Untitled.base",
     "02 - Areas/Tax",
     "02 - Areas/Home/Car",
@@ -211,7 +224,6 @@
     "02 - Areas/Home",
     "02 - Areas/Hyperion.md",
     "02 - Areas/Hyperion",
-    "Templates/Default.md",
     "Templates",
     "02 - Areas/Travel/Tracking.md",
     "02 - Areas/Travel/files/Pasted image 20260607233349.png",

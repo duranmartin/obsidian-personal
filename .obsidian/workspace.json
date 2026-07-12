@@ -11,10 +11,14 @@
             "id": "71d5876b63213068",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Holly BSc Hons.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Holly BSc Hons"
             }
           }
         ]
@@ -200,8 +204,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf002469f547e3f7",
+  "active": "71d5876b63213068",
   "lastOpenFiles": [
+    "Holly BSc Hons.md",
     "02 - Areas/Home/Bills/AquaCool.md",
     "02 - Areas/Home/Bills/Recurring Bills.md",
     "02 - Areas/Finance/Covered Calls VS S&P.md",
